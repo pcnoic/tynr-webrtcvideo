@@ -1,0 +1,15 @@
+{
+  "name": "tynr-webrtcvideo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.3.4"
+  },
+  "dependencies": {
+    "firebase": "^8.6.2"
+  }
+}
